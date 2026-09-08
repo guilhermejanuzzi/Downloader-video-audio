@@ -1,4 +1,4 @@
-# Baixador de Vídeo/Áudio
+# Downloader-video-audio
 
 Aplicação em Python com interface gráfica usando CustomTkinter.
 
